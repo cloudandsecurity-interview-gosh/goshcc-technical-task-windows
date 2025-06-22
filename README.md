@@ -1,0 +1,1 @@
+# goshcc-technical-task
